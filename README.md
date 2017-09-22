@@ -1,5 +1,5 @@
 ## Introduction
-项目是使用NSURLProtocol拦截webView加载页面可能遇到的所有url,并对url进行过滤。
+此Demo是iOS项目中集成了h5游戏，使用NSURLProtocol拦截webView加载页面可能遇到的所有url,并对url进行过滤。
 
 ## Function
 实现了webView加载js游戏页面(h5游戏)
